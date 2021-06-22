@@ -1,5 +1,5 @@
 ### Hi there 👋
-    I'm a Full Stack Web Developer at @RKM based in Mohali, India
+    I'm a Full Stack Web Developer at @rkmarketingltd based in Mohali, India
     🔭 Technologies I work with: PHP,Codeignitor3/4,Laravel,Angular,VueJs
     🌱 I’m currently learning about Vue.js, Frontend topics
     📫 Reach me at @gulshanRKM
