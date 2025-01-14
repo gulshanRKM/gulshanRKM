@@ -1,8 +1,8 @@
 ### Hi 👋
 
-I'm a Full Stack Web Developer at [@RKMSOFTWARE](https://github.com/rkmarketingltd) based in Mohali, India
+I'm a Full Stack Developer at [@RKMSOFTWARE](https://github.com/rkmarketingltd) based in Mohali, India
 
-- ⚡️ Technologies I work with: PHP,Codeignitor3/4,Laravel,Angular,VueJs,Shopify
+- ⚡️ Technologies I work with: PHP,Codeignitor3/4,Laravel,ReactJS,React Native.VueJs, Shopify
 - 🌱 I’m currently learning about Vue.js, Frontend topics
 - 📭 Reach me at [@gulshanRKM ](mailto:gulshan@rkmarketing.net)
 
